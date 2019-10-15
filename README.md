@@ -1,6 +1,8 @@
-# contador
+# Contador
 
-A new Flutter project.
+[es] Mi primera aplicación usando Flutter
+
+[en] A new Flutter project.
 
 ## Getting Started
 
